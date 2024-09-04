@@ -1,10 +1,10 @@
 ---
-title: "	Trinity: A General Purpose FHE Accelerator"
+title: "Trinity: A General Purpose FHE Accelerator"
 collection: publications
 permalink: /publications/2024-09-04-paper-trinity-number-2
 excerpt: 'This paper is about a novel FHE accelerator.'
 date: 2024-09-04
-venue: 'MICRO 2024'
+venue: 'MICRO'
 paperurl: ''
 citation: ''
 ---
