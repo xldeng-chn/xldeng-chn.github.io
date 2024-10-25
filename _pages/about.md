@@ -12,7 +12,7 @@ sitemap: false
 
 Welcome! I am currently a 3rd-year Ph.D. student from Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS), co-advised by [Prof. Rui Hou](http://hourui-arch.net/) and [Prof. Mingzhe Zhang](https://mingzhe-zhang.github.io/). I received my B.E degree from University of Electronic Science and Technology of China (UESTC) in 2022, advised by [Prof. Liang Chang](https://liang-chang-uestc.github.io/). 
 
-My research domain is in Computer Architecture. My research interest focuses on Homomorphic Encryption Acceleration. Please feel free to contact me.
+My research domain is in Computer Architecture. My research interest focuses on Homomorphic Encryption Acceleration. Please contact me if you have any questions.
 
 # News!
 - 07/2024: One paper is accepted by **MICRO 2024**. Thanks to all the collaborators.
