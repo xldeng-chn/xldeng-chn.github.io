@@ -15,6 +15,6 @@ Welcome! I am currently a 3rd-year Ph.D. student from Institute of Information E
 My research domain is in Computer Architecture. My research interest focuses on Homomorphic Encryption Acceleration. Please feel free to contact me.
 
 # News!
-- 07/2024: One paper is accepted by **MICRO 2024**. Thanks for all the collaborators.
+- 07/2024: One paper is accepted by **MICRO 2024**. Thanks to all the collaborators.
 
 <meta name="google-site-verification" content="c10E7fDjQ0LqbHTCLV2E1jOptghQQTdRtoD_5JuYvLU" />
